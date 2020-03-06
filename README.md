@@ -1,3 +1,4 @@
-# Pagination helper
+# CSV Column sorter 
 
-A pagination helper class with the expected features.
+Sort a CSV file columns by the header values.
+
